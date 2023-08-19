@@ -1,0 +1,19 @@
+{
+    "bind":{
+        "kinds":{
+            "s":"spike",
+            "p":"pass",
+            "b":"block"
+        },
+        "player":{
+
+        },
+        "spike":{
+            "t":"touch"
+        },
+        "block":{
+            "b":"break"
+        }
+    },
+    "language":"Chinese"
+}
